@@ -1,0 +1,96 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(91, 91, 91);
+}
+
+h1 {
+    text-align: center;
+    color: #2c2f38;
+    font-size: 40px;
+}
+
+h2 {
+    color: #2c2f38;
+    text-align: center;
+    font-size: 30px;
+}
+
+table td {
+    border: 1px solid #ffed00;
+    color: #282e32;
+    font-size: 20px;
+    border-radius: 4px;
+}
+
+header {
+    background-color: #ffed00;
+    padding: 10px 20px;
+}
+
+header a {
+    justify-content: center;
+    color: black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+nav{
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav a {
+ 
+    font-size: 17px;
+    background-color: black;
+    border: 1px solid black;
+    color: yellow;
+    text-decoration: none;
+    margin: 10px 20px; /* Додає відступи зверху і з боків */
+    padding: 10px 25px;
+    border-radius: 15px;
+}
+
+.logo {
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+}
+
+h1,
+h2 {
+    color: black;
+    text-align: center;
+}
+
+main p {
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ffed00;
+    border-radius: 15px;
+    font-weight: normal;
+}
+
+p img {
+    height: 150px;
+    width: 200px;
+}
+
+
+footer {
+    background-color: yellow;
+    padding: 10px;
+}
+
+footer p {
+    padding: 5px;
+}
+
+footer img {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
